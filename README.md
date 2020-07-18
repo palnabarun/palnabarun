@@ -4,7 +4,7 @@
 - I contribute to open source projects, notably [Kubernetes][kubernetes] and [Python India][pythonindia]
 - I am a polyglot with a knack for Python, but can also work with a few other languages comfortably
 - Ask me about Age of Empires 2, Finance, Python, Kubernetes, DevSecOps, and Open source communities.
-- Reach me at `hey [at] naba [dot] run`, `theonlynabarun` on [Twitter][twitter], or at `nabarun` on `irc.freenode.net`
+- Reach out to me at `hey [at] naba [dot] run`, `theonlynabarun` on [Twitter][twitter], or at `nabarun` on `irc.freenode.net`
 - I write occasionally on my [blog][blog]
 - I live and work out of [Bengaluru, India][blr]
 - My pronouns are [he/him][pronoun]

@@ -4,6 +4,7 @@
 - I contribute to open source projects in my free time, notably [Kubernetes][kubernetes] and [Python India][pythonindia].
 - I am a polyglot with a knack for Python and Go, but can also work with a few other languages comfortably.
 - Ask me about Age of Empires 2, Finance, Python, Kubernetes, DevSecOps, and Open source communities.
+- I used to hack around electronics and robotics during my time at [Team Robocon IITR][robocon]
 - Reach out to me at `hey [at] naba [dot] run`, `theonlynabarun` on [Twitter][twitter], or at `nabarun` on `irc.freenode.net`.
 - I write occasionally on my [blog][blog].
 - I live and work out of [Bengaluru, India][blr].
@@ -18,6 +19,7 @@
 - Current work Page
 -->
 
+[robocon]: https://github.com/roboconiitr
 [blog]: //blog.naba.run
 [blr]: //en.wikipedia.org/wiki/Bangalore
 [clarisights]: //clarisights.com

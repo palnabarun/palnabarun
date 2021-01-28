@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :telescope: I work on Upstream Kubernetes at [VMware Tanzu][vmware]
+- :telescope: I work on Kubernetes Upstream and related projects at [VMware Tanzu][vmware]
 - :sunflower: I contribute to open source projects in my free time, notably [Kubernetes][kubernetes] and [Python India][pythonindia]
 - :gear: I have been involved with the Kubernetes Release Team since Kubernetes 1.17 and have been the Enhancements Lead for 1.19 and incoming Release Lead for 1.21
 - :speech_balloon: Ask me about Age of Empires 2, Finance, Python, Kubernetes, DevSecOps, and F/LOSS communities

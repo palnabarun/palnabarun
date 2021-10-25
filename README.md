@@ -28,7 +28,7 @@ If you want to have a chat with me or hack on something with me or want to know 
 [algoshelf]: //github.com/rorodata
 [iitr]: //iitr.ac.in
 [keybase]: //keybase.io/nabarun
-[calendly]:  https://calendly.com/palnabarun/watercooler
+[calendly]:  https://calendly.com/palnabarun/1-on-1
 
 <!--
 # TODO

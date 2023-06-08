@@ -14,9 +14,6 @@
 <a href="https://twitter.com/theonlynabarun/">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palnabarun&hide=ruby,eagle,jupyter%20notebook,html,css&hide_border=true" />
 </a>
-<a href="https://twitter.com/theonlynabarun/">
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=palnabarun&mode=weekly&hide_border=true" />
-</a>
 
 [vmware-tanzu]: //tanzu.vmware.com
 [kubernetes]: //kubernetes.io

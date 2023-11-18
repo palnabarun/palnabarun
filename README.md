@@ -1,19 +1,27 @@
-## Hi! I'm Nabarun 👋
+<picture>
+  <img src="metrics/header.svg" alt="Nabarun Pal">
+</picture>
 
+- 🔭 [Kubernetes][kubernetes] Steering Committee Member and Maintainer.
+- 💼 Staff Software Engineer at [VMware Tanzu][vmware-tanzu] building highly scalable multi-tenant control planes.
 - 💬 Ask me about Kubernetes, Go, Python, Devops and Open Source.
-- 🔭 Maintaining [Kubernetes][kubernetes] and working at [VMware][vmware-tanzu].
 - 🌱 I’m currently building my own personal finance stack.
-- 📫 Reach out to me on [Twitter](https://twitter.com/theonlynabarun).
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I am the coffee/mechanical keyboards guy in the group.
+- ⚡ Fun fact: I am usually the coffee and mechanical keyboards guy in the group.
+- 📫 Reach out to me on [Twitter](https://twitter.com/theonlynabarun).
 
+<picture>
+  <img src="metrics/community.svg" alt="Nabarun Pal">
+</picture>
 
-<a href="https://twitter.com/theonlynabarun/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=palnabarun&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true" />
-</a>
-<a href="https://twitter.com/theonlynabarun/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=palnabarun&hide=ruby,eagle,jupyter%20notebook,html,css&hide_border=true" />
-</a>
+<picture>
+  <img src="metrics/calendar.svg" alt="Nabarun Pal">
+</picture>
+
+<picture>
+  <img src="metrics/achievements.svg" alt="Nabarun Pal">
+</picture>
+
 
 [vmware-tanzu]: //tanzu.vmware.com
 [kubernetes]: //kubernetes.io

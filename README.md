@@ -2,9 +2,10 @@
   <img src="metrics/header.svg" alt="Nabarun Pal">
 </picture>
 
-- 🔭 [Kubernetes][kubernetes] Steering Committee Member and Maintainer.
-- 💼 Staff Software Engineer at [VMware Tanzu][vmware-tanzu] building highly scalable multi-tenant control planes.
-- 💬 Ask me about Kubernetes, Go, Python, Devops and Open Source.
+- 💼 Principal Software Engineer at [Broadcom][broadcom].
+- 🔭 [Kubernetes][kubernetes] SIG Char and Maintainer.
+- 🚢 Emeritus Kubernetes Steering Committee Member
+- 💬 Ask me about Kubernetes, Go, Python, DevOps and Open Source.
 - 🌱 I’m currently building my own personal finance stack.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am usually the coffee and mechanical keyboards guy in the group.
@@ -18,12 +19,12 @@
   <img src="metrics/calendar.svg" alt="Nabarun Pal">
 </picture>
 
-<picture>
+<!-- <picture>
   <img src="metrics/achievements.svg" alt="Nabarun Pal">
-</picture>
+</picture> -->
 
 
-[vmware-tanzu]: //tanzu.vmware.com
+[broadcom]: //broadcom.com
 [kubernetes]: //kubernetes.io
 [iitr]: //iitr.ac.in
 

@@ -3,7 +3,7 @@
 </picture>
 
 - 💼 Principal Software Engineer at [Broadcom][broadcom].
-- 🔭 [Kubernetes][kubernetes] SIG Char and Maintainer.
+- 🔭 [Kubernetes][kubernetes] SIG Chair and Maintainer.
 - 🚢 Emeritus Kubernetes Steering Committee Member
 - 💬 Ask me about Kubernetes, Go, Python, DevOps and Open Source.
 - 🌱 I’m currently building my own personal finance stack.

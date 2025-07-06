@@ -11,6 +11,8 @@
 - ⚡ Fun fact: I am usually the coffee and mechanical keyboards guy in the group.
 - 📫 Reach out to me on [X](https://x.com/theonlynabarun).
 
+For a detailed look at my professional journey and key milestones, check out my [timeline](https://nabarun.dev/about). You can also explore my [speaking engagements](https://nabarun.dev/speaking) where I share insights about cloud-native technologies, open source community building, and technical deep-dives.
+
 <picture>
   <img src="metrics/community.svg" alt="Nabarun Pal">
 </picture>
